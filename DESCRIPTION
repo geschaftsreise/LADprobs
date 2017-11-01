@@ -1,0 +1,10 @@
+Package: LADprobs
+Title: Calculate the LAD-association Probability Across a Viral Chromosome.
+Version: 0.0.0.9000
+Authors@R: person("Sean", "Thomas", email = "0.sean.thomas@gmail.com", role = c("aut", "cre"))
+Description: calculate the LAD-association probability across a viral chromosome using the information contained in correlation in interaction counts between LAD-associated or unassociated regions
+Depends: R (>= 3.4.0)
+License: GNU GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
